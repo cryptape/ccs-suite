@@ -1,0 +1,9 @@
+tests/sm2-fuzz/sm2_fuzzer
+tests/sm2-fuzz/sm2_coverage
+tests/sm2-fuzz/fuzz*.log
+tests/sm2-fuzz/*.dSYM
+tests/sm2-fuzz/corpus/*
+tests/sm2-fuzz/coverage/*
+
+
+
